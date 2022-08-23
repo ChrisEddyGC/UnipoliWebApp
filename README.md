@@ -5,6 +5,9 @@ para el desarrollo de la aplicacion se utilizo Visual Studio Code 1.70.2
 con la extension Live Server
 Desglose de código.
 
+		Manuales tecnicos
+		https://drive.google.com/drive/folders/1qZuX3Tc5rMVfKwOUcBGvNQatYbNWCJwa?usp=sharing
+
   Diccionario de funciones
   
 Dentro de la aplicación web existe un documento llamado firebase.js, el cual contiene todas las funciones que manejan la conexión de la aplicación con la base de datos y la manipulación de información dentro de la misma
